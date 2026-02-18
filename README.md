@@ -1,35 +1,19 @@
 # EUE Skills
 
-Custom skills for [EUE](https://github.com/ThaddeusJiang/eue) - an autonomous engineering agent.
+Custom skills for [EUE](https://github.com/ThaddeusJiang/eue).
 
 ## Available Skills
 
-### nowledge-mem
+- [daily-task-summary](./daily-task-summary) - Daily task summary from ROADMAP/TODO
+- [nowledge-mem](./nowledge-mem) - Persistent memory management
+- [reminder](./reminder) - Reminder functionality
+- [scheduler](./scheduler) - Time-based task scheduling
+- [telegram-context](./telegram-context) - Extract Telegram message context
+- [telegram-send](./telegram-send) - Send Telegram messages
 
-Persistent memory management using [nowledge-mem](https://mem.nowledge.co) CLI.
+## Usage
 
-**Features:**
-- Add, search, delete memories
-- Thread operations
-- Importance-based ranking
-- Category-based organization
-
-**Usage:**
-```
-用户: 记住这个设计决策
-EUE: [执行 nmem m add 并验证成功]
-```
-
-## Installation
-
-```bash
-# Clone to your EUE skills directory
-git clone https://github.com/ThaddeusJiang/skills.git
-cd skills
-
-# Copy desired skill to your workspace
-cp -r nowledge-mem /path/to/your/workspace/.eue/skills/
-```
+Tell your AI agent: "Install skills from https://github.com/ThaddeusJiang/skills/"
 
 ## License
 
