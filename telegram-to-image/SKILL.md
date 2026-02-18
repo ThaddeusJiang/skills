@@ -1,18 +1,19 @@
 # Telegram to Image Skill
 
-Convert multiple Telegram messages into a shareable image.
+Convert multiple Telegram messages into a shareable chat-style image.
 
 ## Capability
 
-This skill creates beautiful images from Telegram messages:
-- Extract text from forwarded messages
-- Generate styled image with message bubbles
-- Support multiple messages in one image
-- Auto-send generated image back to chat
+This skill creates beautiful chat-style images from Telegram messages:
+- **Chat layout** - Left/right alternating bubbles like real chat
+- **User avatars** - Colorful circular avatars with initials
+- **Speech bubbles** - Rounded bubbles with shadow effect
+- **High contrast** - Light theme with clear text readability
+- **Auto-send** - Sends generated image back to chat
 
 ## When to Use
 
-- User forwards multiple messages and asks to generate image
+- User forwards messages to bot and asks to generate image
 - User wants to share chat history as image
 - Create visual summary of conversations
 
