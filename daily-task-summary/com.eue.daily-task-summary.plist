@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.eue.daily-task-summary</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Users/amami/my2026/personal/eue/.eue/skills/daily-task-summary/daily_task_summary.sh</string>
+    </array>
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Hour</key>
+        <integer>11</integer>
+        <key>Minute</key>
+        <integer>0</integer>
+    </dict>
+    <key>StandardOutPath</key>
+    <string>/tmp/daily_task_summary.log</string>
+    <key>StandardErrorPath</key>
+    <string>/tmp/daily_task_summary_error.log</string>
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>EUE_TELEGRAM_TOKEN</key>
+        <string></string>
+    </dict>
+</dict>
+</plist>
