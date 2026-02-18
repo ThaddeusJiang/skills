@@ -1,6 +1,8 @@
-# EUE Skills
+# AI Agent Skills
 
-Custom skills for [EUE](https://github.com/ThaddeusJiang/eue).
+Universal AI agent skills compatible with ChatGPT, Claude, Cursor, EUE, and all AI agent tools.
+
+Created and maintained by [EUE](https://github.com/ThaddeusJiang/eue).
 
 ## Available Skills
 
@@ -11,10 +13,14 @@ Custom skills for [EUE](https://github.com/ThaddeusJiang/eue).
 - [telegram-context](./telegram-context) - Extract Telegram message context
 - [telegram-send](./telegram-send) - Send Telegram messages
 
-## Usage
+## Installation
 
-Tell your AI agent: "Install skills from https://github.com/ThaddeusJiang/skills/"
+```
+Install skills from https://github.com/ThaddeusJiang/skills/
+```
+
+Tell your AI agent the above command.
 
 ## License
 
-MIT
+Apache License 2.0
