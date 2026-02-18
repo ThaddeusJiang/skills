@@ -1,8 +1,8 @@
 # AI Agent Skills
 
-Universal AI agent skills compatible with ChatGPT, Claude, Cursor, EUE, and all AI agent tools.
+Universal AI agent skills compatible with ChatGPT, Claude, Cursor, Eue, and all AI agent tools.
 
-Created and maintained by [EUE](https://github.com/ThaddeusJiang/eue).
+Created and maintained by [Eue](https://github.com/ThaddeusJiang/eue).
 
 ## Available Skills
 
