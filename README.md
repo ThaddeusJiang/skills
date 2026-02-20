@@ -13,6 +13,7 @@ Created and maintained by [Eue](https://github.com/ThaddeusJiang/eue).
 - [scheduler](./scheduler) - Time-based task scheduling
 - [telegram-context](./telegram-context) - Extract Telegram message context
 - [telegram-send](./telegram-send) - Send Telegram messages
+- [tg-message-feed](./tg-message-feed) - Forward Telegram messages to Message Queue (RabbitMQ, Kafka, Redis, SQS)
 
 ## Installation
 
