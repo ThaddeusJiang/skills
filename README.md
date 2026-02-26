@@ -11,6 +11,7 @@ Created and maintained by [Eue](https://github.com/ThaddeusJiang/eue).
 - [gh-cli](./gh-cli) - GitHub CLI operations for issues and pull requests
 - [nowledge-mem](./nowledge-mem) - Persistent memory management
 - [reminder](./reminder) - Reminder functionality
+- [response-policy](./response-policy) - Generic when-to-reply / when-to-stay-silent policy
 - [scheduler](./scheduler) - Time-based task scheduling
 - [telegram-context](./telegram-context) - Extract Telegram message context
 - [telegram-send](./telegram-send) - Send Telegram messages
